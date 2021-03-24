@@ -1,0 +1,147 @@
+[
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\BTS_SetIsHit.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\BTS_SetIsHit.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\BTS_SetPlayerLocationIfSeen.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\BTS_SetPlayerLocationIfSeen.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\BTT_MakeAttack.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\BTT_MakeAttack.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\SetIsAttackingService.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\AI\\\\SetIsAttackingService.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Enemies\\\\EnemyCharacterBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Enemies\\\\EnemyCharacterBase.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\EnemyAIController.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\EnemyAIController.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\EnemySword.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\EnemySword.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\FighterPlayerController.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\FighterPlayerController.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Characters\\\\CharacterBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Characters\\\\CharacterBase.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Characters\\\\PlayerCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Characters\\\\PlayerCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\PlayerSword.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\PlayerSword.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Sword.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\Sword.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\WinterFighter.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\WinterFighter.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\WinterFighter.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\WinterFighterGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\janho\\\\OneDrive\\\\Dokumenty\\\\Unreal Projects\\\\WinterFighter\\\\Source\\\\WinterFighter\\\\WinterFighterGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter\\WinterFighter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "WinterFighterEditor Editor Win64 Development (WinterFighter)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\.vscode\\compileCommands_WinterFighter.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

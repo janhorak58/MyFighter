@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "WinterFighter (Debug)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighter Win64 Debug Build",
+			"program": "C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighter (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighter Win64 DebugGame Build",
+			"program": "C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighter (Development)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighter Win64 Development Build",
+			"program": "C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighter (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighter Win64 Shipping Build",
+			"program": "C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighter (Test)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighter Win64 Test Build",
+			"program": "C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighterEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighterEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\WinterFighter.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighterEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighterEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\WinterFighter.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "WinterFighterEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "WinterFighterEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\WinterFighter.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\janho\\OneDrive\\Dokumenty\\Unreal Projects\\WinterFighter\\WinterFighter.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26"
+		}
+	]
+}
