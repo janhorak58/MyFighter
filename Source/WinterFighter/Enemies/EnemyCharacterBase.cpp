@@ -39,6 +39,7 @@ FAttackTemplate AEnemyCharacterBase::GetCurrentAttack()
 // Sets sword
 void AEnemyCharacterBase::SetSword() 
 {
+	
 	Sword = GetWorld()->SpawnActor<AEnemySword>(SwordBlueprintClass);
 	if (!Sword) return;
 
